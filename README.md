@@ -16,6 +16,6 @@
 <p align="left">
   <img
     alt="Languages and Tools"
-    src="https://skillicons.dev/icons?i=bash,html,css,js,ts,react,nextjs,nodejs,python,java,django,postgresql,tailwind,git,docker,linux&perline=9&theme=dark"
+    src="https://skillicons.dev/icons?i=bash,html,css,js,ts,react,nextjs,nodejs,python,java,django,postgresql,tailwind,git,github,docker,linux,ubuntu&perline=9&theme=dark"
   />
 </p>
