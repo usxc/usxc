@@ -12,10 +12,10 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Skills:</h3>
 <p align="left">
   <img
-    alt="Languages and Tools"
+    alt="Skills"
     src="https://skillicons.dev/icons?i=bash,vscode,html,css,js,ts,react,nextjs,nodejs,python,java,django,postgresql,tailwind,git,github,docker,linux,ubuntu&perline=10&theme=dark"
   />
 </p>
