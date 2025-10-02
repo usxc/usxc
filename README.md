@@ -12,8 +12,8 @@
   </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
   <img
     alt="Languages and Tools"
     src="https://skillicons.dev/icons?i=bash,html,css,js,ts,react,nextjs,nodejs,python,java,django,postgresql,tailwind,git,docker,linux&perline=9&theme=dark"
