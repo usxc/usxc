@@ -1,7 +1,7 @@
 <h1>👋 Hi! I'm usxc</h1>
 
 
-<h3 align="left">GitHub Stats</h3>
+<h3 align="left">GitHub Stats:</h3>
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
