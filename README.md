@@ -16,6 +16,6 @@
 <p align="left">
   <img
     alt="Skills"
-    src="https://skillicons.dev/icons?i=bash,vscode,html,css,js,ts,react,nextjs,nodejs,python,java,django,postgresql,tailwind,git,github,docker,linux,ubuntu&perline=10&theme=dark"
+    src="https://skillicons.dev/icons?i=bash,vscode,html,css,js,ts,react,nextjs,nodejs,python,java,django,postgresql,supabase,tailwind,git,github,docker,linux,ubuntu&perline=10&theme=dark"
   />
 </p>
