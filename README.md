@@ -1,13 +1,11 @@
-<h1>👋 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I'm+usxc" alt="Typing SVG" /></a></h1>
-
+<h1><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I'm+usxc" alt="Typing SVG" /> 👋</h1>
 
 <h3 align="left">GitHub Stats:</h3>
-
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=usxc&layout=compact&langs_count=8&theme=tokyonight&locale=en"
-      alt="Top Languages"
+      src="https://github-readme-stats.vercel.app/api?username=usxc&show_icons=true&theme=tokyonight&locale=en"
+      alt="GitHub Stats"
     />
   </a>
 </p>
