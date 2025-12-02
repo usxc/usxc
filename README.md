@@ -1,4 +1,4 @@
-<h1>👋 Hi! I'm usxc</h1>
+<h1>👋 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I'm+usxc" alt="Typing SVG" /></a></h1>
 
 
 <h3 align="left">GitHub Stats:</h3>
