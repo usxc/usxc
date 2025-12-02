@@ -1,4 +1,4 @@
-<h1>👋 Hi! I'm usxc</h1>
+<h2>👋 Hi! I'm usxc</h2>
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
