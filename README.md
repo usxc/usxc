@@ -34,8 +34,10 @@
   </p>
 </div>
 
+<hr>
+
 <!-- Links -->
-<div align="right">
+<div align="left">
   <a href="https://qiita.com/usxc">
     <img
       src="https://img.shields.io/badge/-Qiita-55c500?style=social&logo=qiita&label=Qiita"
