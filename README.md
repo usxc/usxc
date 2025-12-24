@@ -19,7 +19,7 @@
   </a>
 </p>
 
-<hr />
+<br>
 
 <h3 align="left">Skills:</h3>
 <p align="left">
@@ -29,7 +29,7 @@
   />
 </p>
 
-<hr />
+<br>
 
 <div align="right">
   <a href="https://qiita.com/usxc">
