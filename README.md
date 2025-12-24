@@ -1,3 +1,4 @@
+<!-- Intro -->
 <div align="left">
   <h2>
     <a href="https://git.io/typing-svg">
@@ -9,30 +10,36 @@
   </h2>
 </div>
 
-<h3 align="left">Language Statistics:</h3>
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- Language Statistics -->
+<div align="left">
+  <h3>Language Statistics:</h3>
+  <p>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=usxc&layout=compact&theme=tokyonight&locale=en"
+        alt="Top Langs"
+      />
+    </a>
+  </p>
+</div>
+
+<!-- Skills -->
+<div align="left">
+  <h3>Skills:</h3>
+  <p>
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=usxc&layout=compact&theme=tokyonight&locale=en"
-      alt="Top Langs"
+      alt="Skills"
+      src="https://skillicons.dev/icons?i=bash,html,css,js,ts,react,nextjs,nodejs,python,java,django,postgresql,prisma,supabase,tailwind,git,github,docker,linux,ubuntu&perline=10&theme=dark"
     />
-  </a>
-</p>
+  </p>
+</div>
 
-<br>
-
-<h3 align="left">Skills:</h3>
-<p align="left">
-  <img
-    alt="Skills"
-    src="https://skillicons.dev/icons?i=bash,html,css,js,ts,react,nextjs,nodejs,python,java,django,postgresql,prisma,supabase,tailwind,git,github,docker,linux,ubuntu&perline=10&theme=dark"
-  />
-</p>
-
-<br>
-
+<!-- Links -->
 <div align="right">
   <a href="https://qiita.com/usxc">
-    <img src="https://img.shields.io/badge/-Qiita-55c500?style=social&logo=qiita&label=Qiita" alt="Qiita" />
+    <img
+      src="https://img.shields.io/badge/-Qiita-55c500?style=social&logo=qiita&label=Qiita"
+      alt="Qiita"
+    />
   </a>
 </div>
