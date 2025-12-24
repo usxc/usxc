@@ -10,24 +10,20 @@
   </a>
 </div>
 
-<div align="left">
-  <h3>Language Statistics:</h3>
-  <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=usxc&layout=compact&theme=tokyonight&locale=en"
-        alt="Top Langs"
-      />
-    </a>
-  </p>
-</div>
-
-<div align="left">
-  <h3>Skills:</h3>
-  <p>
+<h3 align="left">Language Statistics:</h3>
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-      alt="Skills"
-      src="https://skillicons.dev/icons?i=bash,html,css,js,ts,react,nextjs,nodejs,python,java,django,postgresql,prisma,supabase,tailwind,git,github,docker,linux,ubuntu&perline=10&theme=dark"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=usxc&layout=compact&theme=tokyonight&locale=en"
+      alt="Top Langs"
     />
-  </p>
-</div>
+  </a>
+</p>
+
+<h3 align="left">Skills:</h3>
+<p align="left">
+  <img
+    alt="Skills"
+    src="https://skillicons.dev/icons?i=bash,html,css,js,ts,react,nextjs,nodejs,python,java,django,postgresql,prisma,supabase,tailwind,git,github,docker,linux,ubuntu&perline=10&theme=dark"
+  />
+</p>
