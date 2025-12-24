@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<div align="center">
+<div align="left">
   <h2>
     <a href="https://git.io/typing-svg">
       <img
