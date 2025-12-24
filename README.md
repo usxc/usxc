@@ -19,6 +19,8 @@
   </a>
 </p>
 
+<hr />
+
 <h3 align="left">Skills:</h3>
 <p align="left">
   <img
@@ -26,6 +28,8 @@
     src="https://skillicons.dev/icons?i=bash,html,css,js,ts,react,nextjs,nodejs,python,java,django,postgresql,prisma,supabase,tailwind,git,github,docker,linux,ubuntu&perline=10&theme=dark"
   />
 </p>
+
+<hr />
 
 <div align="right">
   <a href="https://qiita.com/usxc">
