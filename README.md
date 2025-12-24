@@ -1,9 +1,3 @@
-<div align="right">
-  <a href="https://qiita.com/usxc">
-    <img src="https://img.shields.io/badge/-Qiita-55c500?style=social&logo=qiita&label=Qiita" alt="Qiita" />
-  </a>
-</div>
-
 <div align="left">
   <h2>
     <a href="https://git.io/typing-svg">
@@ -32,3 +26,9 @@
     src="https://skillicons.dev/icons?i=bash,html,css,js,ts,react,nextjs,nodejs,python,java,django,postgresql,prisma,supabase,tailwind,git,github,docker,linux,ubuntu&perline=10&theme=dark"
   />
 </p>
+
+<div align="right">
+  <a href="https://qiita.com/usxc">
+    <img src="https://img.shields.io/badge/-Qiita-55c500?style=social&logo=qiita&label=Qiita" alt="Qiita" />
+  </a>
+</div>
