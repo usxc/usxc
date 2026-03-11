@@ -23,17 +23,6 @@
   </p>
 </div>
 
-<!-- Skills -->
-<div align="left">
-  <h3>Skills:</h3>
-  <p>
-    <img
-      alt="Skills"
-      src="https://skillicons.dev/icons?i=bash,html,css,js,ts,react,nextjs,nodejs,python,java,django,postgresql,prisma,supabase,tailwind,git,github,docker,linux,ubuntu&perline=10&theme=dark"
-    />
-  </p>
-</div>
-
 <!-- Links -->
 <div align="left">
   <h3>Links:</h3>
