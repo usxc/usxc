@@ -1,33 +1,19 @@
 <!-- Intro -->
-<div align="left">
-  <h2>
-    <a href="https://git.io/typing-svg">
-      <img
-        src="https://readme-typing-svg.herokuapp.com?font=&weight=500&size=24&duration=5500&pause=500&vCenter=true&width=435&height=35&lines=Hi+there!%F0%9F%91%8B;I'm+usxc"
-        alt="Typing SVG"
-      />
-    </a>
-  </h2>
-</div>
+<h1 align="center">Hi, I'm usxc <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
-<!-- Language Statistics -->
-<div align="left">
-  <h3>Language Statistics:</h3>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/usxc/usxc/master/profile-summary-card-output/vue/1-repos-per-language.svg" />
+<!-- Tech Stack -->
+### 🛠 Tech Stack
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,ruby,rails,docker,linux" />
   </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/usxc/usxc/master/profile-summary-card-output/vue/2-most-commit-language.svg" />
-  </a>
-</div>
+</p>
 
 <!-- Links -->
-<div align="left">
-  <h3>Links:</h3>
+### 🔗 Links
   <a href="https://qiita.com/usxc">
     <img
       src="https://img.shields.io/badge/-Qiita-55c500?style=social&logo=qiita&label=Qiita"
       alt="Qiita"
     />
   </a>
-</div>
