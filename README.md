@@ -13,14 +13,12 @@
 <!-- Language Statistics -->
 <div align="left">
   <h3>Language Statistics:</h3>
-  <p>
-    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-      <img src="https://raw.githubusercontent.com/usxc/usxc/master/profile-summary-card-output/vue/1-repos-per-language.svg" />
-    </a>
-    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-      <img src="https://raw.githubusercontent.com/usxc/usxc/master/profile-summary-card-output/vue/2-most-commit-language.svg" />
-    </a>
-  </p>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/usxc/usxc/master/profile-summary-card-output/vue/1-repos-per-language.svg" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/usxc/usxc/master/profile-summary-card-output/vue/2-most-commit-language.svg" />
+  </a>
 </div>
 
 <!-- Links -->
