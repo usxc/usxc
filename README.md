@@ -1,5 +1,7 @@
 <!-- Intro -->
-<h1 align="center">Hi, I'm usxc <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Oxanium&weight=500&size=28&pause=500&color=0FFF04&background=FF060000&center=true&vCenter=true&width=435&height=45&lines=Hi+there%F0%9F%91%8B;I'm+usxc" alt="Typing SVG" /></a>
+</h1>
 
 <!-- Tech Stack -->
 ### 🛠 Tech Stack
