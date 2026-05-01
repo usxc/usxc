@@ -2,9 +2,7 @@
 
 I'm usxc.
 
-I enjoy learning new technologies and building useful projects for others.
-
----
+Enjoy learning new technologies and building useful things for others.
 
 <!--START_SECTION:waka-->
 **I Mostly Code in Python** 
