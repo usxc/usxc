@@ -4,6 +4,8 @@ I'm usxc.
 
 Enjoy learning new technologies and building useful things for others.
 
+---
+
 <!--START_SECTION:waka-->
 **I Mostly Code in Python** 
 
