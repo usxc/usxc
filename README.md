@@ -6,12 +6,12 @@
 </h1>
 
 <!-- Tech Stack -->
-### Tech Stack:
+<!-- ### Tech Stack:
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,ruby,rails,docker,linux" />
   </a>
-</p>
+</p> -->
 
 <!-- Links -->
 ### Links:
