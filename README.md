@@ -12,13 +12,13 @@ Enjoy learning new technologies and building useful things for others.
 ```text
 Python                   11 repos            ██████████░░░░░░░░░░░░░░░   39.29 % 
 JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-TypeScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Nix                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 ```
 
 
 
 
- Last Updated on 03/05/2026 20:07:54 UTC
+ Last Updated on 04/05/2026 20:49:04 UTC
 <!--END_SECTION:waka-->
