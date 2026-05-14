@@ -10,15 +10,15 @@ Enjoy learning new technologies and building useful things for others.
 **I Mostly Code in Python** 
 
 ```text
-Python                   12 repos            ██████████░░░░░░░░░░░░░░░   40.00 % 
-JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Nix                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Python                   12 repos            ██████████░░░░░░░░░░░░░░░   38.71 % 
+JavaScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+Nix                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 ```
 
 
 
 
- Last Updated on 13/05/2026 21:09:18 UTC
+ Last Updated on 14/05/2026 20:54:32 UTC
 <!--END_SECTION:waka-->
