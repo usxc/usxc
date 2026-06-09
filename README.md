@@ -7,61 +7,80 @@ Probably a web developer.
 <details>
 <summary>🛠️ Often Use</summary>
 
-### Languages
-
-<p align="left">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img height="30" src="https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,python,rust,nix" />
-  </a>
-</p>
-
-### Frameworks
-
-<p align="left">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img height="30" src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs" />
-  </a>
-</p>
-
-### DB
-
-<p align="left">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img height="30" src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,mongodb" />
-  </a>
-</p>
-
-### ORM
-
-<p align="left">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img height="30" src="https://go-skill-icons.vercel.app/api/icons?i=prisma" />
-  </a>
-</p>
-
-### Infra
-
-<p align="left">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img height="30" src="https://go-skill-icons.vercel.app/api/icons?i=docker" />
-  </a>
-</p>
-
-### Platforms
-
-<p align="left">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img height="30" src="https://go-skill-icons.vercel.app/api/icons?i=supabase" />
-  </a>
-</p>
-
-### Tools
-
-<p align="left">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img height="30" src="https://go-skill-icons.vercel.app/api/icons?i=slack,notion,zed" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td valign="top">
+      <h3>Languages</h3>
+      <p align="left">
+        <a href="https://go-skill-icons.vercel.app/">
+          <img height="30" src="https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,python,rust,nix" />
+        </a>
+      </p>
+    </td>
+    <td valign="top">
+      <h3>Frameworks</h3>
+      <p align="left">
+        <a href="https://go-skill-icons.vercel.app/">
+          <img height="30" src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>DB</h3>
+      <p align="left">
+        <a href="https://go-skill-icons.vercel.app/">
+          <img height="30" src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,mongodb" />
+        </a>
+      </p>
+    </td>
+    <td valign="top">
+      <h3>ORM</h3>
+      <p align="left">
+        <a href="https://go-skill-icons.vercel.app/">
+          <img height="30" src="https://go-skill-icons.vercel.app/api/icons?i=prisma" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>Infra</h3>
+      <p align="left">
+        <a href="https://go-skill-icons.vercel.app/">
+          <img height="30" src="https://go-skill-icons.vercel.app/api/icons?i=docker" />
+        </a>
+      </p>
+    </td>
+    <td valign="top">
+      <h3>DevOps</h3>
+      <p align="left">
+        <a href="https://go-skill-icons.vercel.app/">
+          <img height="30" src="https://go-skill-icons.vercel.app/api/icons?i=githubactions" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>Platforms</h3>
+      <p align="left">
+        <a href="https://go-skill-icons.vercel.app/">
+          <img height="30" src="https://go-skill-icons.vercel.app/api/icons?i=supabase" />
+        </a>
+      </p>
+    </td>
+    <td valign="top">
+      <h3>Tools</h3>
+      <p align="left">
+        <a href="https://go-skill-icons.vercel.app/">
+          <img height="30" src="https://go-skill-icons.vercel.app/api/icons?i=slack,notion,zed" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 </details>
 
