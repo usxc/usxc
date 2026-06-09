@@ -2,7 +2,68 @@
 
 I'm usxc.
 
-Enjoy learning new technologies and building useful things for others.
+Probably a web developer.
+
+<details>
+<summary>🛠️ Often Use</summary>
+
+### Languages
+
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img height="30" src="https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,python,rust,nix" />
+  </a>
+</p>
+
+### Frameworks
+
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img height="30" src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs" />
+  </a>
+</p>
+
+### DB
+
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img height="30" src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,mongodb" />
+  </a>
+</p>
+
+### ORM
+
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img height="30" src="https://go-skill-icons.vercel.app/api/icons?i=prisma" />
+  </a>
+</p>
+
+### Infra
+
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img height="30" src="https://go-skill-icons.vercel.app/api/icons?i=docker" />
+  </a>
+</p>
+
+### Platforms
+
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img height="30" src="https://go-skill-icons.vercel.app/api/icons?i=supabase" />
+  </a>
+</p>
+
+### Tools
+
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img height="30" src="https://go-skill-icons.vercel.app/api/icons?i=slack,notion,zed" />
+  </a>
+</p>
+
+</details>
 
 ---
 
