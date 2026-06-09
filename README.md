@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-I'm usxc.
-
-Probably a web developer.
+I'm usxc — probably a web developer.
 
 <details>
 <summary>🛠️ Often Use</summary>
