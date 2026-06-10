@@ -4,13 +4,30 @@
   <img
     align="right"
     hspace="18"
-    width="260"
+    width="200"
     src="https://count.getloli.com/@usxc?name=usxc&theme=gelbooru&padding=6&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"
     alt="usxc profile counter"
   />
 </a>
 
 I'm usxc - probably a web developer.
+
+<!--START_SECTION:waka-->
+**I Mostly Code in Python** 
+
+```text
+Python                   14 repos            ███████████░░░░░░░░░░░░░░   42.42 % 
+JavaScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Nix                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+```
+
+
+
+
+ Last Updated on 09/06/2026 21:20:09 UTC
+<!--END_SECTION:waka-->
 
 <details>
 <summary><strong>🛠️  Often Use</strong></summary>
@@ -56,23 +73,6 @@ I'm usxc - probably a web developer.
 </p>
 
 </details>
-
-<!--START_SECTION:waka-->
-**I Mostly Code in Python** 
-
-```text
-Python                   14 repos            ███████████░░░░░░░░░░░░░░   42.42 % 
-JavaScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-Nix                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-```
-
-
-
-
- Last Updated on 09/06/2026 21:20:09 UTC
-<!--END_SECTION:waka-->
 
 ### Badge
 
