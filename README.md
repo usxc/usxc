@@ -1,16 +1,14 @@
+## Hi there 👋
+
 <a href="https://count.getloli.com">
   <img
     align="right"
     hspace="5"
-    width="185"
-    style="transform: translateY(-90px);"
+    width="250"
     src="https://count.getloli.com/@usxc?name=usxc&theme=gelbooru&padding=6&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"
     alt="usxc profile counter"
   />
 </a>
-
-## Hi there 👋
-
 
 I'm usxc - probably a web developer.
 
