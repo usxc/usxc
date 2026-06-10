@@ -57,8 +57,6 @@ I'm usxc - probably a web developer.
 
 </details>
 
-<br>
-
 <!--START_SECTION:waka-->
 **I Mostly Code in Python** 
 
