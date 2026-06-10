@@ -1,8 +1,8 @@
 <a href="https://count.getloli.com">
   <img
     align="right"
-    width="185"
-    src="https://count.getloli.com/@usxc?name=usxc&theme=gelbooru&padding=6&offset=0&align=center&scale=1&pixelated=1&darkmode=auto"
+    width="200"
+    src="https://count.getloli.com/@usxc?name=usxc&theme=gelbooru&padding=6&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"
     alt="usxc profile counter"
   />
 </a>
@@ -55,8 +55,6 @@ I'm usxc - probably a web developer.
 </p>
 
 </details>
-
-<br clear="right" />
 
 ---
 
