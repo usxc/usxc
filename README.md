@@ -4,7 +4,7 @@
   <img
     align="right"
     hspace="18"
-    width="215"
+    width="260"
     src="https://count.getloli.com/@usxc?name=usxc&theme=gelbooru&padding=6&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"
     alt="usxc profile counter"
   />
