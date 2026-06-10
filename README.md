@@ -1,3 +1,5 @@
+## Hi there 👋
+
 <a href="https://count.getloli.com">
   <img
     align="right"
@@ -6,8 +8,6 @@
     alt="usxc profile counter"
   />
 </a>
-
-## Hi there 👋
 
 I'm usxc - probably a web developer.
 
