@@ -12,6 +12,53 @@
 
 I'm usxc - probably a web developer.
 
+<details>
+<summary><strong>🛠️  Often Use</strong></summary>
+
+### Languages
+
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img height="30" src="https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,python,rust,nix" />
+  </a>
+</p>
+
+### Frameworks
+
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img height="30" src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs" />
+  </a>
+</p>
+
+### DB & ORM
+
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img height="30" src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,mongodb,prisma" />
+  </a>
+</p>
+
+### Infra & DevOps
+
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img height="30" src="https://go-skill-icons.vercel.app/api/icons?i=docker,githubactions" />
+  </a>
+</p>
+
+### Platforms & Tools
+
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img height="30" src="https://go-skill-icons.vercel.app/api/icons?i=supabase,slack,notion,zed" />
+  </a>
+</p>
+
+</details>
+
+<br>
+
 <!--START_SECTION:waka-->
 **I Mostly Code in Python** 
 
@@ -29,52 +76,7 @@ Nix                      1 repo              █░░░░░░░░░░�
  Last Updated on 09/06/2026 21:20:09 UTC
 <!--END_SECTION:waka-->
 
-<details>
-<summary><strong>🛠️  Often Use</strong></summary>
-
-#### Languages
-
-<p align="left">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img height="30" src="https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,python,rust,nix" />
-  </a>
-</p>
-
-#### Frameworks
-
-<p align="left">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img height="30" src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs" />
-  </a>
-</p>
-
-#### DB & ORM
-
-<p align="left">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img height="30" src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,mongodb,prisma" />
-  </a>
-</p>
-
-#### Infra & DevOps
-
-<p align="left">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img height="30" src="https://go-skill-icons.vercel.app/api/icons?i=docker,githubactions" />
-  </a>
-</p>
-
-#### Platforms & Tools
-
-<p align="left">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img height="30" src="https://go-skill-icons.vercel.app/api/icons?i=supabase,slack,notion,zed" />
-  </a>
-</p>
-
-</details>
-
-#### Badge
+### Badge
 
 <p align="left">
   <a href="https://qiita.com/usxc">
