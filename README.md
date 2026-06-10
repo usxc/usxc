@@ -2,7 +2,7 @@
   <img
     align="right"
     hspace="5"
-    width="200"
+    width="185"
     style="transform: translateY(-90px);"
     src="https://count.getloli.com/@usxc?name=usxc&theme=gelbooru&padding=6&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"
     alt="usxc profile counter"
