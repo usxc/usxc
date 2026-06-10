@@ -77,10 +77,6 @@ Nix                      1 repo              █░░░░░░░░░░�
 ### Badge
 
 <p align="left">
-  <a href="https://qiita.com/usxc">
-    <img src="https://badgen.org/img/qiita/usxc/contributions?style=flat" alt="Contributions" />
-  </a>
-  <a href="https://qiita.com/usxc">
-    <img src="https://badgen.org/img/qiita/usxc/articles?style=flat" alt="Articles" />
-  </a>
+  <a href="https://qiita.com/usxc"><img src="https://badgen.org/img/qiita/usxc/contributions?style=flat" alt="Contributions" /></a>
+  <a href="https://qiita.com/usxc"><img src="https://badgen.org/img/qiita/usxc/articles?style=flat" alt="Articles" /></a>
 </p>
