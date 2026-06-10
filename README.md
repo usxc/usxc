@@ -1,6 +1,15 @@
+<a href="https://count.getloli.com">
+  <img
+    align="right"
+    width="185"
+    src="https://count.getloli.com/@usxc?name=usxc&theme=gelbooru&padding=6&offset=0&align=center&scale=1&pixelated=1&darkmode=auto"
+    alt="usxc profile counter"
+  />
+</a>
+
 ## Hi there 👋
 
-I'm usxc — probably a web developer.
+I'm usxc - probably a web developer.
 
 <details>
 <summary>🛠️ Often Use</summary>
@@ -46,6 +55,8 @@ I'm usxc — probably a web developer.
 </p>
 
 </details>
+
+<br clear="right" />
 
 ---
 
