@@ -57,4 +57,4 @@ jobs:
           SHOW_TOTAL_CODE_TIME: "False"
 
           # 最終更新日時を表示するかどうか
-          SHOW_UPDATED_DATE: "False"
+          SHOW_UPDATED_DATE: "True"
