@@ -3,8 +3,8 @@
 <a href="https://count.getloli.com">
   <img
     align="right"
-    hspace="13"
-    width="290"
+    hspace="11"
+    width="295"
     src="https://count.getloli.com/@usxc?name=usxc&theme=gelbooru&padding=6&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"
     alt="usxc profile counter"
   />
