@@ -1,0 +1,130 @@
+name: Refresh badge cache
+
+on:
+  schedule:
+    # Run at 19:45 (UTC) every day
+    - cron: "45 19 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# 同じブランチでこのworkflowが重複実行されるのを防ぐ
+concurrency:
+  group: refresh-badge-cache-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+
+    steps:
+      # リポジトリの内容を取得する
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      # ### Badge セクション内の画像URLだけ v= を更新する
+      - name: Update badge cache keys
+        run: |
+          python <<'PY'
+          from datetime import datetime, timezone
+          from html import escape, unescape
+          from pathlib import Path
+          from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
+          import re
+          import sys
+
+          README = Path("README.md")
+          CACHE_PARAM = "v"
+
+          text = README.read_text(encoding="utf-8")
+
+          # README内の ### Badge セクションを探す
+          heading = re.search(r"(?m)^### Badge\s*$", text)
+          if not heading:
+              print("### Badge section was not found.")
+              sys.exit(0)
+
+          # ### Badge から次の ### 見出しまでを対象範囲にする
+          start = heading.start()
+          next_heading = re.search(r"(?m)^###\s+", text[heading.end():])
+          end = heading.end() + next_heading.start() if next_heading else len(text)
+
+          before = text[:start]
+          section = text[start:end]
+          after = text[end:]
+
+          # UTCの日時をキャッシュ回避用の値にする
+          version = datetime.now(timezone.utc).strftime("%Y%m%d%H%M")
+
+          def refresh_src(match: re.Match[str]) -> str:
+              raw_url = match.group(1)
+              url = unescape(raw_url)
+
+              parts = urlsplit(url)
+
+              # http/https以外の画像URLは対象外にする
+              if parts.scheme not in {"http", "https"}:
+                  return match.group(0)
+
+              # 既存の v= を削除して、新しい v= を付け直す
+              query = [
+                  (key, value)
+                  for key, value in parse_qsl(parts.query, keep_blank_values=True)
+                  if key != CACHE_PARAM
+              ]
+              query.append((CACHE_PARAM, version))
+
+              refreshed = urlunsplit((
+                  parts.scheme,
+                  parts.netloc,
+                  parts.path,
+                  urlencode(query),
+                  parts.fragment,
+              ))
+
+              # README内のHTMLとして正しい形にする
+              return f'src="{escape(refreshed, quote=False)}"'
+
+          updated_section = re.sub(r'src="([^"]+)"', refresh_src, section)
+          updated_text = before + updated_section + after
+
+          if updated_text == text:
+              print("No badge cache key changes.")
+              sys.exit(0)
+
+          README.write_text(updated_text, encoding="utf-8")
+          print(f"Updated badge cache key to {version}.")
+          PY
+
+      # README.md に変更がある場合だけcommitしてpushする
+      - name: Commit and push changes
+        run: |
+          if git diff --quiet README.md; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md
+          git commit -m "chore: refresh badge cache [skip ci]"
+
+          branch="${GITHUB_REF_NAME:-main}"
+
+          # 他のworkflowとpushタイミングが重なった場合に備えてリトライする
+          for attempt in 1 2 3; do
+            echo "Push attempt ${attempt}"
+
+            if git pull --rebase origin "${branch}" && git push origin "HEAD:${branch}"; then
+              echo "Pushed successfully"
+              exit 0
+            fi
+
+            git rebase --abort || true
+            sleep $((attempt * 5))
+          done
+
+          echo "Failed to push after retries"
+          exit 1
