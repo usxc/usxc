@@ -76,6 +76,6 @@ HTML                     1 repo              █░░░░░░░░░░�
 ### Badge
 
 <p align="left">
-  <a href="https://qiita.com/usxc"><img src="https://badgen.org/img/qiita/usxc/contributions?style=flat&amp;v=202606162202" alt="Qiita Contributions" /></a>
-  <a href="https://qiita.com/usxc"><img src="https://badgen.org/img/qiita/usxc/articles?style=flat&amp;v=202606162202" alt="Qiita Articles" /></a>
+  <a href="https://qiita.com/usxc"><img src="https://badgen.org/img/qiita/usxc/contributions?style=flat&amp;v=202606172133" alt="Qiita Contributions" /></a>
+  <a href="https://qiita.com/usxc"><img src="https://badgen.org/img/qiita/usxc/articles?style=flat&amp;v=202606172133" alt="Qiita Articles" /></a>
 </p>
