@@ -1,14 +1,35 @@
 name: Waka Readme Stats
 
+# This workflow is kept as a backup/template.
+#
+# Current status:
+# - It does not run automatically because the schedule trigger is disabled.
+# - It can be run manually from the Actions tab.
+#
+# To enable automatic daily updates again:
+# 1. Uncomment the schedule block below.
+# 2. Add the WakaTime section back to README.md:
+#
+#    <!--START_SECTION:waka-->
+#    <!--END_SECTION:waka-->
+#
+# 3. Make sure these repository secrets are set:
+#    - WAKATIME_API_KEY
+#    - GH_TOKEN
+
 on:
-  schedule:
-    # Run at 19:30 (UTC) every day
-    - cron: "30 19 * * *"
+  # schedule:
+  #   # Run at 19:30 UTC every day
+  #   - cron: "30 19 * * *"
+
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update-readme:
-    name: Update README with Metrics
+    name: Update README with WakaTime metrics
     runs-on: ubuntu-latest
 
     steps:
@@ -17,44 +38,47 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
-          # OS 別の作業時間を表示するかどうか
+          # Show OS usage stats
           SHOW_OS: "False"
 
-          # コミット数の統計を表示するかどうか
+          # Show commit count stats
           SHOW_COMMIT: "False"
 
-          # 曜日別のコミット統計を表示するかどうか
+          # Show commits by day of week
           SHOW_DAYS_OF_WEEK: "False"
 
-          # WakaTime の言語別作業時間を表示するかどうか
+          # Show WakaTime language usage stats
           SHOW_LANGUAGE: "False"
 
-          # 使用エディタの統計を表示するかどうか
+          # Show editor usage stats
           SHOW_EDITORS: "False"
 
-          # 短いプロフィール情報を表示するかどうか
+          # Show short profile info
           SHOW_SHORT_INFO: "False"
 
-          # GitHub リポジトリの主要言語ごとの repo 数を表示するかどうか
+          # Show repository count by primary language
           SHOW_LANGUAGE_PER_REPO: "True"
 
-          # 総コード行数を表示するかどうか
+          # Show total lines of code
           SHOW_LINES_OF_CODE: "False"
 
-          # GitHub プロフィール閲覧数を表示するかどうか
+          # Show GitHub profile views
           SHOW_PROFILE_VIEWS: "False"
 
-          # コード行数のグラフを表示するかどうか
+          # Show lines-of-code chart
           SHOW_LOC_CHART: "False"
 
-          # WakaTime のプロジェクト別統計を表示するかどうか
+          # Show WakaTime project stats
           SHOW_PROJECTS: "False"
 
-          # タイムゾーン情報を表示するかどうか
+          # Show timezone info
           SHOW_TIMEZONE: "False"
 
-          # WakaTime の総コーディング時間を表示するかどうか
+          # Show total coding time from WakaTime
           SHOW_TOTAL_CODE_TIME: "False"
 
-          # 最終更新日時を表示するかどうか
+          # Show last updated date
           SHOW_UPDATED_DATE: "False"
+
+          # Commit message used when this workflow is manually run
+          COMMIT_MESSAGE: "chore: update WakaTime stats [skip ci]"
