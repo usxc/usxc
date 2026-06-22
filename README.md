@@ -1,6 +1,6 @@
 ### Hi 👋, I'm usxc
 
-<img align="right" src="https://github-readme-stats-swart-two-22.vercel.app/api/top-langs/?username=usxc&layout=compact&langs_count=8&card_width=320&title_color=0080ff&text_color=000000&bg_color=f5f5fa&locale=en" alt="Top Langs" />
+<img align="right" src="https://github-readme-stats-swart-two-22.vercel.app/api/top-langs/?username=usxc&layout=compact&title_color=0080ff&text_color=000000&bg_color=f5f5fa&locale=en" alt="Top Langs" />
 
 
 - 🌱 I’m currently learning Linux, Docker, and Nix
