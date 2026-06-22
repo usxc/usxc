@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning Linux, Docker, and Nix
 - 📝 I write articles on [Qiita](https://qiita.com/usxc)
 
+**Badge**
+
 [![Qiita Contributions](https://badgen.org/img/qiita/usxc/contributions?style=flat&v=20260623)](https://qiita.com/usxc)
 [![Qiita Articles](https://badgen.org/img/qiita/usxc/articles?style=flat&v=20260623)](https://qiita.com/usxc)
 
