@@ -8,8 +8,8 @@
 
 **Badge**
 
-[![Qiita Contributions](https://badgen.org/img/qiita/usxc/contributions?style=flat&v=202608042053)](https://qiita.com/usxc)
-[![Qiita Articles](https://badgen.org/img/qiita/usxc/articles?style=flat&v=202608042053)](https://qiita.com/usxc)
+[![Qiita Contributions](https://badgen.org/img/qiita/usxc/contributions?style=flat&v=202608052045)](https://qiita.com/usxc)
+[![Qiita Articles](https://badgen.org/img/qiita/usxc/articles?style=flat&v=202608052045)](https://qiita.com/usxc)
 
 **My Skills**
 
