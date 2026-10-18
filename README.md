@@ -4,5 +4,5 @@ I like building things ꜀( ꜆-⩊-)꜆
 
 **Badge**
 
-[![Qiita Contributions](https://badgen.org/img/qiita/usxc/contributions?style=flat&v=202610172143)](https://qiita.com/usxc)
-[![Qiita Articles](https://badgen.org/img/qiita/usxc/articles?style=flat&v=202610172143)](https://qiita.com/usxc)
+[![Qiita Contributions](https://badgen.org/img/qiita/usxc/contributions?style=flat&v=202610182150)](https://qiita.com/usxc)
+[![Qiita Articles](https://badgen.org/img/qiita/usxc/articles?style=flat&v=202610182150)](https://qiita.com/usxc)
